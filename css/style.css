@@ -1,0 +1,43 @@
+*{
+    margin: 0 ;
+    padding: 0;
+}
+
+header{
+    background-color: gray;
+    height: 100px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    padding: 100px;
+    margin: 50px;
+    padding-top: 100px;
+}
+
+section{
+    background-color: rgb(101, 101, 179);
+}
+
+footer{
+    background-color: gray;
+    height: 70px;
+}
+
+.art{
+display: flex;
+}
+
+.nav{
+    background-color: black;
+    padding: 20px;
+    padding-left: 150px;
+    margin: 100px;
+    margin-top: 15px;
+    margin-left: 150px;
+}
+
+.img2{
+    padding: 100px;
+}

@@ -1,0 +1,19 @@
+sudo apt update
+sudo apt install git
+sudo apt update
+crear repositorio en github
+ir a la terminal
+cd Escritorio
+mkdir nueva carpeta
+touch archivo
+git init
+git config --global user.name "BrayanVela"
+git config --global user.email "brayvela08@gmail.com"
+git add .
+git commit -m "comentario dentro del comit"
+COPIAR Y PEGAR LOS 3 PASOS QUE APARECEN EL GITHUB son:
+git branch -M main
+git remote add origin https://github.com/BrayanVela/transferencia.git  (ESTE SI DEBE SER COPIADO)
+git push -u origin main
+BrayanVela
+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
